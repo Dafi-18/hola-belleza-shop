@@ -92,7 +92,7 @@ const products: Product[] = [
   }
 ];
 
-const categories = ["Todos", "Base", "Labios", "Ojos", "Rostro", "Cuidado"];
+const categories = ["Todos", "BASE", "LABIO", "OJOS", "Rostro", "Cuidado"];
 
 const Index = () => {
   const [selectedCategory, setSelectedCategory] = useState("Todos");
