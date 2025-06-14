@@ -26,7 +26,7 @@ interface CartItem extends Product {
 const products: Product[] = [
   {
     id: 1,
-    name: "Liquid Foundation",
+    name: "FUNDACION",
     brand: "Glamour Pro",
     price: 42.99,
     originalPrice: 55.99,
