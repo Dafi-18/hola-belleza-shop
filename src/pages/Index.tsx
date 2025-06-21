@@ -38,14 +38,14 @@ const products: Product[] = [
     image: "https://images.unsplash.com/photo-1596462502278-27bfdc403348",
     category: "Base",
     rating: 4.8,
-    reviews: 324,
+    reviews: 328,
     isSale: true
   },
   {
     id: 2,
     name: "Labial Velvet Rojo Pasión",
     brand: "Beauty Luxe",
-    price: 28.50,
+    price: 27.99,
     image: "https://images.unsplash.com/photo-1586495777744-4413f21062fa",
     category: "Labios",
     rating: 4.9,
@@ -187,7 +187,7 @@ const products: Product[] = [
     brand: "Glow Goddess",
     price: 36.99,
     originalPrice: 45.00,
-    image: "https://images.unsplash.com/photo-1583241800698-e8ab01150cc7",
+    image: "https://images.unsplash.com/photo-1583281800698-e8ab01150cc7",
     category: "Rostro",
     rating: 4.9,
     reviews: 223,
@@ -347,7 +347,7 @@ const Index = () => {
                 className="relative border-pink-200 hover:bg-pink-50"
               >
                 <ShoppingBag className="w-4 h-4 mr-2" />
-                Carrito
+                🛒 Carrito
                 {getTotalItems() > 0 && (
                   <Badge className="absolute -top-2 -right-2 bg-pink-500 text-white rounded-full w-5 h-5 flex items-center justify-center text-xs">
                     {getTotalItems()}
@@ -648,7 +648,7 @@ const Index = () => {
               onClick={(e) => e.stopPropagation()}
             >
               <div className="flex items-center justify-between mb-6">
-                <h3 className="text-xl font-bold">Carrito de Compras</h3>
+                <h3 className="text-xl font-bold">🛒 Carrito de Compras</h3>
                 <Button
                   variant="ghost"
                   size="sm"
@@ -812,7 +812,7 @@ const Index = () => {
                         className="flex-1 bg-gradient-to-r from-pink-500 to-rose-500 hover:from-pink-600 hover:to-rose-600 text-white"
                       >
                         <ShoppingBag className="w-4 h-4 mr-2" />
-                        Agregar al Carrito
+                        Agregar al 🛒 Carrito
                       </Button>
                       <Button
                         variant="outline"
