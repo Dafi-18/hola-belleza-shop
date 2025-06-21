@@ -144,7 +144,7 @@ const products: Product[] = [
     id: 11,
     name: "Polvo Compacto Matificante",
     brand: "Matte Perfect",
-    price: 32.99,
+    price: 31.99,
     image: "https://images.unsplash.com/photo-1607008829749-c0f284a49fc4",
     category: "Base",
     rating: 4.6,
@@ -185,7 +185,7 @@ const products: Product[] = [
     id: 15,
     name: "Iluminador en Polvo Dorado",
     brand: "Glow Goddess",
-    price: 36.99,
+    price: 35.99,
     originalPrice: 45.00,
     image: "https://images.unsplash.com/photo-1583281800698-e8ab01150cc7",
     category: "Rostro",
@@ -425,7 +425,7 @@ const Index = () => {
               </span>
             </h2>
             <Button variant="outline" className="border-pink-200 hover:bg-pink-50">
-              Ver todos
+              👀 Ver todos
             </Button>
           </div>
           
