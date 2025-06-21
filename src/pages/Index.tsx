@@ -158,7 +158,7 @@ const products: Product[] = [
     image: "https://images.unsplash.com/photo-1608979048467-6194dabc6a3d",
     category: "Rostro",
     rating: 4.7,
-    reviews: 98,
+    reviews: 105,
     isNew: true
   },
   {
