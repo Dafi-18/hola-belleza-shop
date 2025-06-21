@@ -402,7 +402,7 @@ const Index = () => {
                 <TrendingUp className="w-6 h-6 text-purple-600" />
               </div>
               <h3 className="font-bold text-lg mb-1">Envío Gratis</h3>
-              <p className="text-gray-600 text-sm">En compras mayores a $50</p>
+              <p className="text-gray-600 text-sm">En compras mayores a $45</p>
             </div>
             <div className="bg-white/80 backdrop-blur-sm rounded-2xl p-6 text-center shadow-lg hover:shadow-xl transition-all hover:scale-105">
               <div className="w-12 h-12 bg-rose-100 rounded-full flex items-center justify-center mx-auto mb-3">
