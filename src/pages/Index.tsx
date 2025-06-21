@@ -959,7 +959,7 @@ const Index = () => {
               <h4 className="font-semibold mb-4">Síguenos</h4>
               <ul className="space-y-2 text-pink-100">
                 <li>📸 Instagram</li>
-                <li>Facebook</li>
+                <li>👥 Facebook</li>
                 <li>Twitter</li>
                 <li>YouTube</li>
               </ul>
