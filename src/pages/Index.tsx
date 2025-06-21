@@ -79,7 +79,7 @@ const products: Product[] = [
     brand: "Lash Perfect",
     price: 34.99,
     originalPrice: 42.99,
-    image: "https://images.unsplash.com/photo-1631214540242-65b852c9629e",
+    image: "https://images.unsplash.com/photo-1631814540242-65b852c9629e",
     category: "Ojos",
     rating: 4.6,
     reviews: 167,
@@ -112,7 +112,7 @@ const products: Product[] = [
     brand: "Shine Lips",
     price: 22.50,
     originalPrice: 28.00,
-    image: "https://images.unsplash.com/photo-1631214524020-7e18db9a8f92",
+    image: "https://images.unsplash.com/photo-1631814524020-7e18db9a8f92",
     category: "Labios",
     rating: 4.5,
     reviews: 143,
@@ -137,7 +137,7 @@ const products: Product[] = [
     image: "https://images.unsplash.com/photo-1570194065650-d99fb4b38e39",
     category: "Cuidado",
     rating: 4.9,
-    reviews: 312,
+    reviews: 318,
     isSale: true
   },
   {
