@@ -49,7 +49,7 @@ const products: Product[] = [
     image: "https://images.unsplash.com/photo-1586495777744-4413f21062fa",
     category: "Labios",
     rating: 4.9,
-    reviews: 156,
+    reviews: 160,
     isNew: true
   },
   {
@@ -100,7 +100,7 @@ const products: Product[] = [
     name: "Corrector Alta Cobertura",
     brand: "Flawless",
     price: 18.99,
-    image: "https://images.unsplash.com/photo-1515688594390-b649af70d282",
+    image: "https://images.unsplash.com/photo-1516088594390-b649af70d282",
     category: "Base",
     rating: 4.7,
     reviews: 201,
@@ -148,7 +148,7 @@ const products: Product[] = [
     image: "https://images.unsplash.com/photo-1607008829749-c0f284a49fc4",
     category: "Base",
     rating: 4.6,
-    reviews: 156,
+    reviews: 160,
   },
   {
     id: 12,
