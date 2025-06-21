@@ -110,7 +110,7 @@ const products: Product[] = [
     id: 8,
     name: "Gloss Labial Brillante",
     brand: "Shine Lips",
-    price: 22.50,
+    price: 21.99,
     originalPrice: 28.00,
     image: "https://images.unsplash.com/photo-1631214524020-7e18db9a8f92",
     category: "Labios",
