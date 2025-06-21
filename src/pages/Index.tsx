@@ -961,7 +961,7 @@ const Index = () => {
                 <li>Instagram</li>
                 <li>Facebook</li>
                 <li>Twitter</li>
-                <li>YouTube</li>
+                <li>📺 YouTube</li>
               </ul>
             </div>
           </div>
