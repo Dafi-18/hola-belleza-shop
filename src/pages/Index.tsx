@@ -366,7 +366,7 @@ const Index = () => {
           <div className="text-center mb-12">
             <div className="inline-flex items-center gap-2 bg-gradient-to-r from-pink-500 to-rose-500 text-white px-4 py-2 rounded-full text-sm font-medium mb-6">
               <Sparkles className="w-4 h-4" />
-              <span>¡Ofertas de Temporada!</span>
+              <span>¡🔥 Ofertas de Temporada!</span>
               <Sparkles className="w-4 h-4" />
             </div>
             <h2 className="text-5xl md:text-6xl font-bold text-gray-800 mb-6">
