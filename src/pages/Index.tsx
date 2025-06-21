@@ -144,7 +144,7 @@ const products: Product[] = [
     id: 11,
     name: "Polvo Compacto Matificante",
     brand: "Matte Perfect",
-    price: 32.99,
+    price: 31.49,
     image: "https://images.unsplash.com/photo-1607008829749-c0f284a49fc4",
     category: "Base",
     rating: 4.6,
