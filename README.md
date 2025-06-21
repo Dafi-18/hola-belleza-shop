@@ -203,3 +203,4 @@ Para soporte y preguntas:
 **Desarrollado con ❤️ usando Lovable**
 
 *Última actualización: Junio 2025*
+
