@@ -169,7 +169,7 @@ const products: Product[] = [
     image: "https://images.unsplash.com/photo-1556228720-195a672e8a03",
     category: "Cuidado",
     rating: 4.8,
-    reviews: 275,
+    reviews: 280,
   },
   {
     id: 14,
