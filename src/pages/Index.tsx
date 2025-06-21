@@ -960,7 +960,7 @@ const Index = () => {
               <ul className="space-y-2 text-pink-100">
                 <li>📸 Instagram</li>
                 <li>👥 Facebook</li>
-                <li>Twitter</li>
+                <li>🐦 Twitter</li>
                 <li>YouTube</li>
               </ul>
             </div>
