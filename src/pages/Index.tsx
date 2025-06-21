@@ -383,7 +383,7 @@ const Index = () => {
                 Explorar Productos
               </Button>
               <Button size="lg" variant="outline" className="border-pink-300 text-pink-600 hover:bg-pink-50 px-8 py-3 rounded-full text-lg">
-                Ver Ofertas
+                💰 Ver Ofertas
               </Button>
             </div>
           </div>
