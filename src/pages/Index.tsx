@@ -165,7 +165,7 @@ const products: Product[] = [
     id: 13,
     name: "Tónico Facial Vitamina C",
     brand: "Bright Skin",
-    price: 45.00,
+    price: 44.50,
     image: "https://images.unsplash.com/photo-1556228720-195a672e8a03",
     category: "Cuidado",
     rating: 4.8,
