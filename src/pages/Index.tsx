@@ -713,7 +713,7 @@ const Index = () => {
                       onClick={() => {
                         toast({
                           title: "¡Compra realizada!",
-                          description: "Gracias por tu compra. Te enviaremos un email de confirmación.",
+                          description: "🎉 ¡Gracias por tu compra!. 📧 Te enviaremos un email de confirmación.",
                         });
                         setCart([]);
                         setIsCartOpen(false);
@@ -916,7 +916,7 @@ const Index = () => {
               </Button>
             </div>
             <p className="text-xs text-gray-500 mt-4">
-              Al suscribirte aceptas nuestros términos y condiciones
+              ✅ Al suscribirte aceptas nuestros términos y condiciones
             </p>
           </div>
         </div>
