@@ -409,7 +409,7 @@ const Index = () => {
                 <Heart className="w-6 h-6 text-rose-600" />
               </div>
               <h3 className="font-bold text-lg mb-1">Programa de Puntos</h3>
-              <p className="text-gray-600 text-sm">Acumula y canjea beneficios</p>
+              <p className="text-gray-600 text-sm">💰 Acumula y canjea beneficios</p>
             </div>
           </div>
         </div>
