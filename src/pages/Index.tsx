@@ -186,7 +186,7 @@ const products: Product[] = [
     name: "Iluminador en Polvo Dorado",
     brand: "Glow Goddess",
     price: 35.99,
-    originalPrice: 45.00,
+    originalPrice: 47.00,
     image: "https://images.unsplash.com/photo-1583241800698-e8ab01150cc7",
     category: "Rostro",
     rating: 5.0,
