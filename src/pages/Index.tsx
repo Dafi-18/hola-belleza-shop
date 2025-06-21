@@ -719,7 +719,7 @@ const Index = () => {
                         setIsCartOpen(false);
                       }}
                     >
-                      Finalizar Compra
+                      ✅ Finalizar Compra
                     </Button>
                   </div>
                 </>
