@@ -952,7 +952,7 @@ const Index = () => {
                 <li>Contacto</li>
                 <li>🚚 Envíos</li>
                 <li>↩️ Devoluciones</li>
-                <li>FAQ</li>
+                <li>❓ FAQ</li>
               </ul>
             </div>
             <div>
