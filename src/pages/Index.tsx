@@ -934,7 +934,7 @@ const Index = () => {
                 <h3 className="text-xl font-bold">BeautyStore</h3>
               </div>
               <p className="text-pink-100">
-                Tu destino para productos de belleza de alta calidad
+                🌟 Tu destino para productos de belleza de alta calidad
               </p>
             </div>
             <div>
