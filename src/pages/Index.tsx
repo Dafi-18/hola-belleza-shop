@@ -66,7 +66,7 @@ const products: Product[] = [
     id: 4,
     name: "Serum Hidratante con Ácido Hialurónico",
     brand: "Skin Glow",
-    price: 89.99,
+    price: 88.99,
     image: "https://images.unsplash.com/photo-1620916566398-39f1143ab7be",
     category: "Cuidado",
     rating: 4.9,
