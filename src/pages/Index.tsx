@@ -89,11 +89,11 @@ const products: Product[] = [
     id: 6,
     name: "Blush en Polvo Rosa Natural 1",
     brand: "Rosy Cheeks",
-    price: 23.99,
+    price: 22.99,
     image: "https://images.unsplash.com/photo-1522335789503-aabd1fc54bc9",
     category: "Rostro",
     rating: 4.8,
-    reviews: 95,
+    reviews: 102,
   },
   {
     id: 7,
