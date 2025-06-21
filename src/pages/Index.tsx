@@ -77,7 +77,7 @@ const products: Product[] = [
     id: 5,
     name: "Máscara de Pestañas Volumen Extremo",
     brand: "Lash Perfect",
-    price: 34.99,
+    price: 33.49,
     originalPrice: 42.99,
     image: "https://images.unsplash.com/photo-1631814540242-65b852c9629e",
     category: "Ojos",
