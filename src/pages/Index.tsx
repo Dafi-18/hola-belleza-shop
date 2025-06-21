@@ -122,7 +122,7 @@ const products: Product[] = [
     id: 9,
     name: "Delineador de Ojos Waterproof",
     brand: "Eye Define",
-    price: 19.99,
+    price: 19.49,
     image: "https://images.unsplash.com/photo-1597225244660-1cd128c64284",
     category: "Ojos",
     rating: 4.8,
