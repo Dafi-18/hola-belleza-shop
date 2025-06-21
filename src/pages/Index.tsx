@@ -940,10 +940,10 @@ const Index = () => {
             <div>
               <h4 className="font-semibold mb-4">Categorías</h4>
               <ul className="space-y-2 text-pink-100">
-                <li>💄 Maquillaje</li>
-                <li>Cuidado de la Piel</li>
+                <li>Maquillaje</li>
+                <li>🧴 Cuidado de la Piel</li>
                 <li>Fragancias</li>
-                <li>Accesorios</li>
+                <li>👜 Accesorios</li>
               </ul>
             </div>
             <div>
@@ -961,7 +961,7 @@ const Index = () => {
                 <li>Instagram</li>
                 <li>Facebook</li>
                 <li>Twitter</li>
-                <li>YouTube</li>
+                <li>📺 YouTube</li>
               </ul>
             </div>
           </div>
