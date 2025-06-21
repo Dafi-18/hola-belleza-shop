@@ -110,12 +110,12 @@ const products: Product[] = [
     id: 8,
     name: "Gloss Labial Brillante",
     brand: "Shine Lips",
-    price: 22.50,
+    price: 21.99,
     originalPrice: 28.00,
     image: "https://images.unsplash.com/photo-1631214524020-7e18db9a8f95",
     category: "Labios",
     rating: 4.5,
-    reviews: 143,
+    reviews: 148,
     isSale: true
   },
   {
@@ -849,7 +849,7 @@ const Index = () => {
                 name: "María García",
                 comment: "¡Los mejores productos de belleza que he probado! La calidad es excepcional y el servicio al cliente es maravilloso.",
                 rating: 5,
-                avatar: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop"
+                avatar: "https://images.unsplash.com/photo-1488761681033-6461ffad8d80?w=100&h=100&fit=crop"
               },
               {
                 name: "Ana Rodríguez",
@@ -912,7 +912,7 @@ const Index = () => {
                   });
                 }}
               >
-                Suscribirse
+                📧 Suscribirse
               </Button>
             </div>
             <p className="text-xs text-gray-500 mt-4">
