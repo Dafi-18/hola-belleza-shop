@@ -89,11 +89,11 @@ const products: Product[] = [
     id: 6,
     name: "Blush en Polvo Rosa Natural 1",
     brand: "Rosy Cheeks",
-    price: 24.99,
-    image: "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9",
+    price: 23.99,
+    image: "https://images.unsplash.com/photo-1522335789503-aabd1fc54bc9",
     category: "Rostro",
     rating: 4.8,
-    reviews: 92,
+    reviews: 95,
   },
   {
     id: 7,
@@ -112,7 +112,7 @@ const products: Product[] = [
     brand: "Shine Lips",
     price: 22.50,
     originalPrice: 28.00,
-    image: "https://images.unsplash.com/photo-1631214524020-7e18db9a8f92",
+    image: "https://images.unsplash.com/photo-1631214524020-7e18db9a8f95",
     category: "Labios",
     rating: 4.5,
     reviews: 143,
@@ -454,7 +454,7 @@ const Index = () => {
                       onClick={() => addToCart(product)}
                       className="bg-gradient-to-r from-pink-500 to-rose-500 hover:from-pink-600 hover:to-rose-600 text-white"
                     >
-                      Agregar
+                      ➕ Agregar
                     </Button>
                   </div>
                 </div>
@@ -632,7 +632,7 @@ const Index = () => {
                     onClick={() => addToCart(product)}
                     className="bg-gradient-to-r from-pink-500 to-rose-500 hover:from-pink-600 hover:to-rose-600 text-white"
                   >
-                    Agregar
+                    ➕ Agregar
                   </Button>
                 </div>
               </div>
