@@ -60,7 +60,7 @@ const products: Product[] = [
     image: "https://images.unsplash.com/photo-1512496015851-a90fb38ba796",
     category: "Ojos",
     rating: 4.7,
-    reviews: 89,
+    reviews: 95,
   },
   {
     id: 4,
@@ -179,7 +179,7 @@ const products: Product[] = [
     image: "https://images.unsplash.com/photo-1611080541599-8c6dbde6ed28",
     category: "Labios",
     rating: 4.4,
-    reviews: 89,
+    reviews: 95,
   },
   {
     id: 15,
