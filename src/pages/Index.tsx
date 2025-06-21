@@ -99,7 +99,7 @@ const products: Product[] = [
     id: 7,
     name: "Corrector Alta Cobertura",
     brand: "Flawless",
-    price: 18.99,
+    price: 17.99,
     image: "https://images.unsplash.com/photo-1515688594390-b649af70d282",
     category: "Base",
     rating: 4.7,
