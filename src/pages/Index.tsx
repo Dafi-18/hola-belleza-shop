@@ -136,7 +136,7 @@ const products: Product[] = [
     originalPrice: 150.00,
     image: "https://images.unsplash.com/photo-1570194065650-d99fb4b38e39",
     category: "Cuidado",
-    rating: 4.9,
+    rating: 5.0,
     reviews: 318,
     isSale: true
   },
