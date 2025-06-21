@@ -154,7 +154,7 @@ const products: Product[] = [
     id: 12,
     name: "Contorno en Crema",
     brand: "Sculpt Pro",
-    price: 28.99,
+    price: 27.99,
     image: "https://images.unsplash.com/photo-1608979048467-6194dabc6a3d",
     category: "Rostro",
     rating: 4.7,
