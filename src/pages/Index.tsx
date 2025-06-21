@@ -34,7 +34,7 @@ const products: Product[] = [
     name: "Base Líquida HD Matte",
     brand: "Glamour Pro",
     price: 42.99,
-    originalPrice: 55.99,
+    originalPrice: 57.99,
     image: "https://images.unsplash.com/photo-1596462502278-27bfdc403348",
     category: "Base",
     rating: 4.8,
