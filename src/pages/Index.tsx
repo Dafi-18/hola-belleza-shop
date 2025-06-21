@@ -950,7 +950,7 @@ const Index = () => {
               <h4 className="font-semibold mb-4">Ayuda</h4>
               <ul className="space-y-2 text-pink-100">
                 <li>Contacto</li>
-                <li>Envíos</li>
+                <li>🚚 Envíos</li>
                 <li>Devoluciones</li>
                 <li>FAQ</li>
               </ul>
