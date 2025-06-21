@@ -48,7 +48,7 @@ const products: Product[] = [
     price: 28.50,
     image: "https://images.unsplash.com/photo-1586495777744-4413f21062fa",
     category: "Labios",
-    rating: 4.9,
+    rating: 5.0,
     reviews: 156,
     isNew: true
   },
@@ -69,7 +69,7 @@ const products: Product[] = [
     price: 89.99,
     image: "https://images.unsplash.com/photo-1620916566398-39f1143ab7be",
     category: "Cuidado",
-    rating: 4.9,
+    rating: 5.0,
     reviews: 234,
     isNew: true
   },
@@ -136,7 +136,7 @@ const products: Product[] = [
     originalPrice: 150.00,
     image: "https://images.unsplash.com/photo-1570194065650-d99fb4b38e39",
     category: "Cuidado",
-    rating: 4.9,
+    rating: 5.0,
     reviews: 320,
     isSale: true
   },
@@ -189,7 +189,7 @@ const products: Product[] = [
     originalPrice: 45.00,
     image: "https://images.unsplash.com/photo-1583241800698-e8ab01150cc7",
     category: "Rostro",
-    rating: 4.9,
+    rating: 5.0,
     reviews: 223,
     isSale: true
   }
