@@ -37,7 +37,7 @@ const products: Product[] = [
     originalPrice: 55.99,
     image: "https://images.unsplash.com/photo-1596462502278-27bfdc403348",
     category: "Base",
-    rating: 4.8,
+    rating: 4.9,
     reviews: 328,
     isSale: true
   },
@@ -839,7 +839,7 @@ const Index = () => {
         <div className="container mx-auto px-4">
           <h2 className="text-3xl font-bold text-center text-gray-800 mb-12">
             <span className="bg-gradient-to-r from-pink-600 to-rose-600 bg-clip-text text-transparent">
-              Lo que dicen nuestras clientas
+              💬 Lo que dicen nuestras clientas
             </span>
           </h2>
           
