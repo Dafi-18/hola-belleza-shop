@@ -59,7 +59,7 @@ const products: Product[] = [
     price: 65.00,
     image: "https://images.unsplash.com/photo-1512496015851-a90fb38ba796",
     category: "Ojos",
-    rating: 4.7,
+    rating: 4.8,
     reviews: 89,
   },
   {
@@ -102,7 +102,7 @@ const products: Product[] = [
     price: 18.99,
     image: "https://images.unsplash.com/photo-1515688594390-b649af70d282",
     category: "Base",
-    rating: 4.7,
+    rating: 4.8,
     reviews: 201,
     isNew: true
   },
@@ -157,7 +157,7 @@ const products: Product[] = [
     price: 27.99,
     image: "https://images.unsplash.com/photo-1608979048467-6194dabc6a3d",
     category: "Rostro",
-    rating: 4.7,
+    rating: 4.8,
     reviews: 98,
     isNew: true
   },
