@@ -82,7 +82,7 @@ const products: Product[] = [
     image: "https://images.unsplash.com/photo-1631214540242-65b852c9629e",
     category: "Ojos",
     rating: 4.6,
-    reviews: 167,
+    reviews: 170,
     isSale: true
   },
   {
@@ -383,7 +383,7 @@ const Index = () => {
                 ✨ Explorar Productos
               </Button>
               <Button size="lg" variant="outline" className="border-pink-300 text-pink-600 hover:bg-pink-50 px-8 py-3 rounded-full text-lg">
-                Ver Ofertas
+                💰 Ver Ofertas
               </Button>
             </div>
           </div>
