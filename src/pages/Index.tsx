@@ -966,7 +966,7 @@ const Index = () => {
             </div>
           </div>
           <div className="border-t border-pink-400 mt-8 pt-8 text-center text-pink-100">
-            <p>&copy; 2024 BeautyStore. Todos los derechos reservados.</p>
+            <p>&copy; 2024 BeautyStore. Todos los derechos reservados 💄.</p>
           </div>
         </div>
       </footer>
