@@ -33,7 +33,7 @@ const products: Product[] = [
     id: 1,
     name: "Base Líquida HD Matte",
     brand: "Glamour Pro",
-    price: 42.99,
+    price: 41.99,
     originalPrice: 55.99,
     image: "https://images.unsplash.com/photo-1596462502278-27bfdc403348",
     category: "Base",
@@ -78,7 +78,7 @@ const products: Product[] = [
     name: "Máscara de Pestañas Volumen Extremo",
     brand: "Lash Perfect",
     price: 34.99,
-    originalPrice: 42.99,
+    originalPrice: 41.99,
     image: "https://images.unsplash.com/photo-1631214540242-65b852c9629e",
     category: "Ojos",
     rating: 4.6,
@@ -87,7 +87,7 @@ const products: Product[] = [
   },
   {
     id: 6,
-    name: "Blush en Polvo Rosa Natural",
+    name: "Blush en Polvo Rosa Natural 1",
     brand: "Rosy Cheeks",
     price: 24.99,
     image: "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9",
@@ -309,7 +309,7 @@ const Index = () => {
                 <Heart className="w-4 h-4 text-white fill-current" />
               </div>
               <h1 className="text-2xl font-bold bg-gradient-to-r from-pink-600 to-rose-600 bg-clip-text text-transparent">
-                BeautyStore
+                ✨ BeautyStore
               </h1>
             </div>
             
@@ -931,7 +931,7 @@ const Index = () => {
                 <div className="w-8 h-8 bg-white rounded-full flex items-center justify-center">
                   <Heart className="w-4 h-4 text-pink-500 fill-current" />
                 </div>
-                <h3 className="text-xl font-bold">BeautyStore</h3>
+                <h3 className="text-xl font-bold">✨ BeautyStore</h3>
               </div>
               <p className="text-pink-100">
                 Tu destino para productos de belleza de alta calidad
@@ -966,7 +966,7 @@ const Index = () => {
             </div>
           </div>
           <div className="border-t border-pink-400 mt-8 pt-8 text-center text-pink-100">
-            <p>&copy; 2024 BeautyStore. Todos los derechos reservados.</p>
+            <p>&copy; 2024 ✨ BeautyStore. Todos los derechos reservados.</p>
           </div>
         </div>
       </footer>
