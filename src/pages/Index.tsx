@@ -309,7 +309,7 @@ const Index = () => {
                 <Heart className="w-4 h-4 text-white fill-current" />
               </div>
               <h1 className="text-2xl font-bold bg-gradient-to-r from-pink-600 to-rose-600 bg-clip-text text-transparent">
-                BeautyStore
+                ✨ BeautyStore
               </h1>
             </div>
             
@@ -931,7 +931,7 @@ const Index = () => {
                 <div className="w-8 h-8 bg-white rounded-full flex items-center justify-center">
                   <Heart className="w-4 h-4 text-pink-500 fill-current" />
                 </div>
-                <h3 className="text-xl font-bold">BeautyStore</h3>
+                <h3 className="text-xl font-bold">✨ BeautyStore</h3>
               </div>
               <p className="text-pink-100">
                 Tu destino para productos de belleza de alta calidad
@@ -966,7 +966,7 @@ const Index = () => {
             </div>
           </div>
           <div className="border-t border-pink-400 mt-8 pt-8 text-center text-pink-100">
-            <p>&copy; 2024 BeautyStore. Todos los derechos reservados.</p>
+            <p>&copy; 2024 ✨ BeautyStore. Todos los derechos reservados.</p>
           </div>
         </div>
       </footer>
