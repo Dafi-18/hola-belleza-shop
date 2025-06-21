@@ -951,7 +951,7 @@ const Index = () => {
               <ul className="space-y-2 text-pink-100">
                 <li>Contacto</li>
                 <li>🚚 Envíos</li>
-                <li>Devoluciones</li>
+                <li>↩️ Devoluciones</li>
                 <li>FAQ</li>
               </ul>
             </div>
