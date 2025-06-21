@@ -38,7 +38,7 @@ const products: Product[] = [
     image: "https://images.unsplash.com/photo-1596462502278-27bfdc403348",
     category: "Base",
     rating: 4.8,
-    reviews: 324,
+    reviews: 328,
     isSale: true
   },
   {
@@ -187,7 +187,7 @@ const products: Product[] = [
     brand: "Glow Goddess",
     price: 36.99,
     originalPrice: 45.00,
-    image: "https://images.unsplash.com/photo-1583241800698-e8ab01150cc7",
+    image: "https://images.unsplash.com/photo-1583281800698-e8ab01150cc7",
     category: "Rostro",
     rating: 4.9,
     reviews: 223,
