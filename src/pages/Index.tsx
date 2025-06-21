@@ -132,7 +132,7 @@ const products: Product[] = [
     id: 10,
     name: "Crema Anti-edad con Retinol",
     brand: "Youth Essence",
-    price: 125.00,
+    price: 124.99,
     originalPrice: 150.00,
     image: "https://images.unsplash.com/photo-1570194065650-d99fb4b38e39",
     category: "Cuidado",
