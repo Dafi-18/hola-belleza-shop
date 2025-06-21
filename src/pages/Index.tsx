@@ -425,7 +425,7 @@ const Index = () => {
               </span>
             </h2>
             <Button variant="outline" className="border-pink-200 hover:bg-pink-50">
-              Ver todos
+              👀 Ver todos
             </Button>
           </div>
           
