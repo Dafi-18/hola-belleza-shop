@@ -45,7 +45,7 @@ const products: Product[] = [
     id: 2,
     name: "Labial Velvet Rojo Pasión",
     brand: "Beauty Luxe",
-    price: 28.50,
+    price: 27.99,
     image: "https://images.unsplash.com/photo-1586495777744-4413f21062fa",
     category: "Labios",
     rating: 4.9,
