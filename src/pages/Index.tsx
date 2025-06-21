@@ -87,7 +87,7 @@ const products: Product[] = [
   },
   {
     id: 6,
-    name: "Blush en Polvo Rosa Natural",
+    name: "Blush en Polvo Rosa Natural 1",
     brand: "Rosy Cheeks",
     price: 24.99,
     image: "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9",
