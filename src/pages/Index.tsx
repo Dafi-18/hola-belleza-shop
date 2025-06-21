@@ -125,7 +125,7 @@ const products: Product[] = [
     price: 19.49,
     image: "https://images.unsplash.com/photo-1597225244660-1cd128c64284",
     category: "Ojos",
-    rating: 4.8,
+    rating: 4.9,
     reviews: 182,
   },
   {
