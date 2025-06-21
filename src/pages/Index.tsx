@@ -37,7 +37,7 @@ const products: Product[] = [
     originalPrice: 55.99,
     image: "https://images.unsplash.com/photo-1596462502278-27bfdc403348",
     category: "Base",
-    rating: 4.8,
+    rating: 4.9,
     reviews: 328,
     isSale: true
   },
