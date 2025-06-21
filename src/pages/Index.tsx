@@ -122,11 +122,11 @@ const products: Product[] = [
     id: 9,
     name: "Delineador de Ojos Waterproof",
     brand: "Eye Define",
-    price: 19.99,
+    price: 19.49,
     image: "https://images.unsplash.com/photo-1597225244660-1cd128c64284",
     category: "Ojos",
     rating: 4.8,
-    reviews: 178,
+    reviews: 182,
   },
   {
     id: 10,
@@ -472,7 +472,7 @@ const Index = () => {
               className="border-pink-200 hover:bg-pink-50"
             >
               <Filter className="w-4 h-4 mr-2" />
-              Filtros
+              🔽 Filtros
             </Button>
             <Select value={sortBy} onValueChange={setSortBy}>
               <SelectTrigger className="w-48 border-pink-200">
@@ -492,7 +492,7 @@ const Index = () => {
           </div>
         </div>
 
-        {/* Panel de Filtros */}
+        {/* Panel de 🔽 Filtros */}
         {showFilters && (
           <div className="bg-pink-50 rounded-2xl p-6 mb-8">
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -521,7 +521,7 @@ const Index = () => {
                   }}
                   className="border-pink-200 hover:bg-pink-50"
                 >
-                  Limpiar Filtros
+                  Limpiar 🔽 Filtros
                 </Button>
               </div>
             </div>
