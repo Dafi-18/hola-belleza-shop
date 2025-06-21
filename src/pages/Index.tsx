@@ -126,7 +126,7 @@ const products: Product[] = [
     image: "https://images.unsplash.com/photo-1597225244660-1cd128c64284",
     category: "Ojos",
     rating: 4.8,
-    reviews: 178,
+    reviews: 182,
   },
   {
     id: 10,
