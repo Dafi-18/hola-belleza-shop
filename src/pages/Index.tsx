@@ -942,7 +942,7 @@ const Index = () => {
               <ul className="space-y-2 text-pink-100">
                 <li>Maquillaje</li>
                 <li>Cuidado de la Piel</li>
-                <li>Fragancias</li>
+                <li>🌸 Fragancias</li>
                 <li>Accesorios</li>
               </ul>
             </div>
