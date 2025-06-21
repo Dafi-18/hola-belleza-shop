@@ -60,7 +60,7 @@ const products: Product[] = [
     image: "https://images.unsplash.com/photo-1512496015851-a90fb38ba796",
     category: "Ojos",
     rating: 4.7,
-    reviews: 89,
+    reviews: 95,
   },
   {
     id: 4,
@@ -158,28 +158,28 @@ const products: Product[] = [
     image: "https://images.unsplash.com/photo-1608979048467-6194dabc6a3d",
     category: "Rostro",
     rating: 4.7,
-    reviews: 98,
+    reviews: 105,
     isNew: true
   },
   {
     id: 13,
     name: "Tónico Facial Vitamina C",
     brand: "Bright Skin",
-    price: 45.00,
+    price: 44.50,
     image: "https://images.unsplash.com/photo-1556228720-195a672e8a03",
     category: "Cuidado",
     rating: 4.8,
-    reviews: 267,
+    reviews: 275,
   },
   {
     id: 14,
     name: "Bálsamo Labial con SPF",
     brand: "Lip Care",
-    price: 12.99,
+    price: 11.99,
     image: "https://images.unsplash.com/photo-1611080541599-8c6dbde6ed28",
     category: "Labios",
     rating: 4.4,
-    reviews: 89,
+    reviews: 95,
   },
   {
     id: 15,
@@ -190,7 +190,7 @@ const products: Product[] = [
     image: "https://images.unsplash.com/photo-1583281800698-e8ab01150cc7",
     category: "Rostro",
     rating: 4.9,
-    reviews: 223,
+    reviews: 230,
     isSale: true
   }
 ];
@@ -366,13 +366,13 @@ const Index = () => {
           <div className="text-center mb-12">
             <div className="inline-flex items-center gap-2 bg-gradient-to-r from-pink-500 to-rose-500 text-white px-4 py-2 rounded-full text-sm font-medium mb-6">
               <Sparkles className="w-4 h-4" />
-              <span>¡Ofertas de Temporada!</span>
+              <span>¡🔥 Ofertas de Temporada!</span>
               <Sparkles className="w-4 h-4" />
             </div>
             <h2 className="text-5xl md:text-6xl font-bold text-gray-800 mb-6">
               Descubre tu
               <span className="block bg-gradient-to-r from-pink-600 to-rose-600 bg-clip-text text-transparent">
-                Belleza Natural
+                ✨ Belleza Natural ✨
               </span>
             </h2>
             <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
@@ -394,7 +394,7 @@ const Index = () => {
               <div className="w-12 h-12 bg-pink-100 rounded-full flex items-center justify-center mx-auto mb-3">
                 <Percent className="w-6 h-6 text-pink-600" />
               </div>
-              <h3 className="font-bold text-lg mb-1">Hasta 30% OFF</h3>
+              <h3 className="font-bold text-lg mb-1">Hasta 35% OFF</h3>
               <p className="text-gray-600 text-sm">En productos seleccionados</p>
             </div>
             <div className="bg-white/80 backdrop-blur-sm rounded-2xl p-6 text-center shadow-lg hover:shadow-xl transition-all hover:scale-105">
@@ -402,13 +402,13 @@ const Index = () => {
                 <TrendingUp className="w-6 h-6 text-purple-600" />
               </div>
               <h3 className="font-bold text-lg mb-1">Envío Gratis</h3>
-              <p className="text-gray-600 text-sm">En compras mayores a $50</p>
+              <p className="text-gray-600 text-sm">En compras mayores a $45</p>
             </div>
             <div className="bg-white/80 backdrop-blur-sm rounded-2xl p-6 text-center shadow-lg hover:shadow-xl transition-all hover:scale-105">
               <div className="w-12 h-12 bg-rose-100 rounded-full flex items-center justify-center mx-auto mb-3">
                 <Heart className="w-6 h-6 text-rose-600" />
               </div>
-              <h3 className="font-bold text-lg mb-1">Programa de Puntos</h3>
+              <h3 className="font-bold text-lg mb-1">💎 Programa de Puntos</h3>
               <p className="text-gray-600 text-sm">Acumula y canjea beneficios</p>
             </div>
           </div>
@@ -416,12 +416,12 @@ const Index = () => {
       </section>
 
       <div className="container mx-auto px-4 py-8">
-        {/* Productos Destacados */}
+        {/* Productos ⭐ Destacados */}
         <section className="mb-12">
           <div className="flex items-center justify-between mb-8">
             <h2 className="text-3xl font-bold text-gray-800">
               <span className="bg-gradient-to-r from-pink-600 to-rose-600 bg-clip-text text-transparent">
-                Productos Destacados
+                Productos ⭐ Destacados
               </span>
             </h2>
             <Button variant="outline" className="border-pink-200 hover:bg-pink-50">
@@ -479,7 +479,7 @@ const Index = () => {
                 <SelectValue placeholder="Ordenar por" />
               </SelectTrigger>
               <SelectContent>
-                <SelectItem value="featured">Destacados</SelectItem>
+                <SelectItem value="featured">⭐ Destacados</SelectItem>
                 <SelectItem value="price-asc">Precio: Menor a Mayor</SelectItem>
                 <SelectItem value="price-desc">Precio: Mayor a Menor</SelectItem>
                 <SelectItem value="rating">Mejor Valorados</SelectItem>
@@ -934,7 +934,7 @@ const Index = () => {
                 <h3 className="text-xl font-bold">✨ BeautyStore</h3>
               </div>
               <p className="text-pink-100">
-                Tu destino para productos de belleza de alta calidad
+                🌟 Tu destino para productos de belleza de alta calidad
               </p>
             </div>
             <div>
