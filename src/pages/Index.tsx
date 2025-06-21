@@ -943,7 +943,7 @@ const Index = () => {
                 <li>Maquillaje</li>
                 <li>🧴 Cuidado de la Piel</li>
                 <li>Fragancias</li>
-                <li>Accesorios</li>
+                <li>👜 Accesorios</li>
               </ul>
             </div>
             <div>
