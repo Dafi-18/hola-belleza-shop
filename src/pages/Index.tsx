@@ -56,7 +56,7 @@ const products: Product[] = [
     id: 3,
     name: "Paleta de Sombras Sunset",
     brand: "Color Magic",
-    price: 65.00,
+    price: 64.50,
     image: "https://images.unsplash.com/photo-1512496015851-a90fb38ba796",
     category: "Ojos",
     rating: 4.7,
