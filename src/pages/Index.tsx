@@ -103,7 +103,7 @@ const products: Product[] = [
     image: "https://images.unsplash.com/photo-1516088594390-b649af70d282",
     category: "Base",
     rating: 4.7,
-    reviews: 201,
+    reviews: 205,
     isNew: true
   },
   {
@@ -719,7 +719,7 @@ const Index = () => {
                         setIsCartOpen(false);
                       }}
                     >
-                      Finalizar Compra
+                      ✅ Finalizar Compra
                     </Button>
                   </div>
                 </>
