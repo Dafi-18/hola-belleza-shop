@@ -454,7 +454,7 @@ const Index = () => {
                       onClick={() => addToCart(product)}
                       className="bg-gradient-to-r from-pink-500 to-rose-500 hover:from-pink-600 hover:to-rose-600 text-white"
                     >
-                      Agregar
+                      ➕ Agregar
                     </Button>
                   </div>
                 </div>
@@ -632,7 +632,7 @@ const Index = () => {
                     onClick={() => addToCart(product)}
                     className="bg-gradient-to-r from-pink-500 to-rose-500 hover:from-pink-600 hover:to-rose-600 text-white"
                   >
-                    Agregar
+                    ➕ Agregar
                   </Button>
                 </div>
               </div>
@@ -812,7 +812,7 @@ const Index = () => {
                         className="flex-1 bg-gradient-to-r from-pink-500 to-rose-500 hover:from-pink-600 hover:to-rose-600 text-white"
                       >
                         <ShoppingBag className="w-4 h-4 mr-2" />
-                        Agregar al Carrito
+                        ➕ Agregar al Carrito
                       </Button>
                       <Button
                         variant="outline"
