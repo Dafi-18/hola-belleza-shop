@@ -372,7 +372,7 @@ const Index = () => {
             <h2 className="text-5xl md:text-6xl font-bold text-gray-800 mb-6">
               Descubre tu
               <span className="block bg-gradient-to-r from-pink-600 to-rose-600 bg-clip-text text-transparent">
-                Belleza Natural
+                ✨ Belleza Natural ✨
               </span>
             </h2>
             <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
