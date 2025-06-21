@@ -67,7 +67,7 @@ const products: Product[] = [
     name: "Serum Hidratante con Ácido Hialurónico",
     brand: "Skin Glow",
     price: 89.99,
-    image: "https://images.unsplash.com/photo-1620916566398-39f1143ab7be",
+    image: "https://images.unsplash.com/photo-1620916566398-39f1148ab7be",
     category: "Cuidado",
     rating: 4.9,
     reviews: 234,
@@ -115,7 +115,7 @@ const products: Product[] = [
     image: "https://images.unsplash.com/photo-1631214524020-7e18db9a8f92",
     category: "Labios",
     rating: 4.5,
-    reviews: 143,
+    reviews: 148,
     isSale: true
   },
   {
@@ -849,7 +849,7 @@ const Index = () => {
                 name: "María García",
                 comment: "¡Los mejores productos de belleza que he probado! La calidad es excepcional y el servicio al cliente es maravilloso.",
                 rating: 5,
-                avatar: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop"
+                avatar: "https://images.unsplash.com/photo-1488761681033-6461ffad8d80?w=100&h=100&fit=crop"
               },
               {
                 name: "Ana Rodríguez",
