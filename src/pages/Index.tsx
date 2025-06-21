@@ -49,14 +49,14 @@ const products: Product[] = [
     image: "https://images.unsplash.com/photo-1586495777744-4413f21062fa",
     category: "Labios",
     rating: 4.9,
-    reviews: 156,
+    reviews: 160,
     isNew: true
   },
   {
     id: 3,
     name: "Paleta de Sombras Sunset",
     brand: "Color Magic",
-    price: 65.00,
+    price: 64.50,
     image: "https://images.unsplash.com/photo-1512496015851-a90fb38ba796",
     category: "Ojos",
     rating: 4.7,
@@ -100,7 +100,7 @@ const products: Product[] = [
     name: "Corrector Alta Cobertura",
     brand: "Flawless",
     price: 18.99,
-    image: "https://images.unsplash.com/photo-1515688594390-b649af70d282",
+    image: "https://images.unsplash.com/photo-1516088594390-b649af70d282",
     category: "Base",
     rating: 4.7,
     reviews: 201,
@@ -148,7 +148,7 @@ const products: Product[] = [
     image: "https://images.unsplash.com/photo-1607008829749-c0f284a49fc4",
     category: "Base",
     rating: 4.6,
-    reviews: 156,
+    reviews: 160,
   },
   {
     id: 12,
@@ -318,7 +318,7 @@ const Index = () => {
                 <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400 w-4 h-4" />
                 <input
                   type="text"
-                  placeholder="Buscar productos..."
+                  placeholder="🔍 Buscar productos..."
                   value={searchTerm}
                   onChange={(e) => setSearchTerm(e.target.value)}
                   className="w-full pl-10 pr-4 py-2 border border-pink-200 rounded-full focus:outline-none focus:ring-2 focus:ring-pink-300 focus:border-transparent"
