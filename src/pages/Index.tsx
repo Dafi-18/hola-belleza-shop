@@ -521,7 +521,7 @@ const Index = () => {
                   }}
                   className="border-pink-200 hover:bg-pink-50"
                 >
-                  Limpiar Filtros
+                  🧹 Limpiar Filtros
                 </Button>
               </div>
             </div>
