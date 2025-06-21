@@ -416,12 +416,12 @@ const Index = () => {
       </section>
 
       <div className="container mx-auto px-4 py-8">
-        {/* Productos Destacados */}
+        {/* 🏆 Productos Destacados */}
         <section className="mb-12">
           <div className="flex items-center justify-between mb-8">
             <h2 className="text-3xl font-bold text-gray-800">
               <span className="bg-gradient-to-r from-pink-600 to-rose-600 bg-clip-text text-transparent">
-                Productos Destacados
+                🏆 Productos Destacados
               </span>
             </h2>
             <Button variant="outline" className="border-pink-200 hover:bg-pink-50">
