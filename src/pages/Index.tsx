@@ -178,7 +178,7 @@ const products: Product[] = [
     price: 12.99,
     image: "https://images.unsplash.com/photo-1611080541599-8c6dbde6ed28",
     category: "Labios",
-    rating: 4.4,
+    rating: 4.5,
     reviews: 89,
   },
   {
