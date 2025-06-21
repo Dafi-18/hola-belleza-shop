@@ -175,7 +175,7 @@ const products: Product[] = [
     id: 14,
     name: "Bálsamo Labial con SPF",
     brand: "Lip Care",
-    price: 11.99,
+    price: 11.49,
     image: "https://images.unsplash.com/photo-1611080541599-8c6dbde6ed28",
     category: "Labios",
     rating: 4.4,
