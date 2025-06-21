@@ -912,7 +912,7 @@ const Index = () => {
                   });
                 }}
               >
-                Suscribirse
+                📧 Suscribirse
               </Button>
             </div>
             <p className="text-xs text-gray-500 mt-4">
